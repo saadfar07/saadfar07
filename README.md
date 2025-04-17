@@ -36,22 +36,21 @@
 
 ### 🛠️ Tools & Technologies
 
-<p>
- <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_logo.png" alt="Docker" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.png" alt="Ansible" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo_with_title.svg" alt="Jenkins" height="40"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="40"/>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_logo.png" alt="Docker" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.png" alt="Ansible" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo_with_title.svg" alt="Jenkins" style="height:40px; vertical-align:middle;"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Actions" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" style="height:40px; vertical-align:middle;"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="Nginx" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="height:40px; vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" style="height:40px; vertical-align:middle;"/>
 </p>
 
 ---
