@@ -20,14 +20,15 @@
 
 ### 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/saad--farooqui" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
   </a>
   <a href="https://github.com/saadfar07" target="_blank">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="34" />
   </a>
 </p>
+
 
 ---
 
