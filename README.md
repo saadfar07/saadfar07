@@ -63,7 +63,7 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" style="height:40px; margin: 0 8px;" /></a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" style="height:40px; margin: 0 8px;" /></a>
   <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro-40.svg" alt="Premiere Pro" style="height:40px; margin: 0 8px;" /></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Adobe_After_Effects_CC_icon.svg" alt="After Effects" style="height:40px; margin: 0 8px;" /></a>
+  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="After Effects" style="height:40px; margin: 0 8px;" /></a>
 </p>
 
 
