@@ -13,11 +13,11 @@
 - 🐳 Docker & Kubernetes advocate  
 - ☁️ Hands-on with AWS: EC2, RDS, S3, ECS, Route53, IAM, etc.  
 - 🧠 Always learning — currently exploring DevSecOps, IaC, and observability  
-- 🧑‍💻 Backend development with **PHP**, **Laravel**, and **Python**  
-- 📫 Reach me: [saadfarooqui74@gmail.com]
+- 🧑‍💻 Automating deployements with **Ansible**, **Shell Scripting**, and **Python**  
+- 📫 Reach me: saadfarooqui74@gmail.com
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=saadfar07&theme=onedark&no-frame=true&margin-w=10&margin-h=10)
-
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadfar07&show_icons=true&theme=radical)
 ### 🌐 Connect with Me
 
 <div style="display: flex; align-items: center; gap: 10px;">
