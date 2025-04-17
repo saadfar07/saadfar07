@@ -22,7 +22,7 @@
 
 <p>
   <a href="https://linkedin.com/in/saad-farooqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />
   </a>
   <a href="https://medium.com/@saadfarooqui" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" />
