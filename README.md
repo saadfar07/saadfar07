@@ -27,7 +27,7 @@
   <a href="https://medium.com/@saadfarooqui" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" />
   </a>
-  <a href="https://github.com/saadfarooqui" target="_blank">
+  <a href="https://github.com/saadfar07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadfarooqui&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saadfar07&show_icons=true&theme=transparent&hide_border=true" />
 </p>
 
 ---
