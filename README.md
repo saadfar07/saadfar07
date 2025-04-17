@@ -21,8 +21,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/saad--farooqui" target="_blank"style="padding-bottom: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" />
+  <a href="https://linkedin.com/in/saad--farooqui" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" style="margin: 0 10px;" />
   </a>
   <a href="https://github.com/saadfar07" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="54" />
