@@ -16,8 +16,7 @@
 - 🧑‍💻 Backend development with **PHP**, **Laravel**, and **Python**  
 - 📫 Reach me: [saadfarooqui74@gmail.com]
 
-[![trophy](https://github-profile-trophy.vercel.app/saadfar07=ryo-ma&column=3&margin-w=15&margin-h=15)]
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadfar07&label=Profile%20views&color=0e75b6&style=flat" alt="saadfar07" /> </p>
 ### 🌐 Connect with Me
 
 <p>
