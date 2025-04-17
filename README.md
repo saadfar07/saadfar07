@@ -17,7 +17,6 @@
 - 📫 Reach me: saadfarooqui74@gmail.com
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=saadfar07&theme=onedark&no-frame=true&margin-w=10&margin-h=10)
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadfar07&show_icons=true&theme=radical)
 ### 🌐 Connect with Me
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -71,9 +70,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadfar07&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadfar07&show_icons=true&theme=radical)
+[![Saad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saadfar07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
