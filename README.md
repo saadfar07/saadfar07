@@ -21,14 +21,11 @@
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/saad-farooqui" target="_blank">
+  <a href="https://linkedin.com/in/saad--farooqui" target="_blank">
     <img src="https://content.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg" />
   </a>
-  <a href="https://medium.com/@saadfarooqui" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" />
-  </a>
   <a href="https://github.com/saadfar07" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" />
+    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" />
   </a>
 </p>
 
