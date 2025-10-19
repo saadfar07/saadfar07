@@ -57,11 +57,6 @@
   <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://www.phpmyadmin.net/static/images/logo.png" alt="phpMyAdmin" style="height:40px; margin: 0 8px;" /></a>
   <a href="https://wordpress.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="WordPress" style="height:40px; margin: 0 8px;" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="height:40px; margin: 0 8px;" /></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" style="height:40px; margin: 0 8px;" /></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" style="height:40px; margin: 0 8px;" /></a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/premiere-pro-40.svg" alt="Premiere Pro" style="height:40px; margin: 0 8px;" /></a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/after-effects-40.svg" alt="After Effects" style="height:40px; margin: 0 8px;" /></a>
-</p>
 
 
 
