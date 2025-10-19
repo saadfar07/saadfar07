@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saad Farooqui 👋</h1>
 
 <p align="center">
-  🚀 DevOps Engineer &nbsp;|&nbsp; ☁️ Cloud & Automation Specialist &nbsp;|&nbsp; 🧠 AWS Enthusiast
+  🚀 DevOps Engineer &nbsp;|&nbsp; ☁️ Cloud & Automation Specialist &nbsp;|&nbsp; 🧠 AWS Enthusiast &nbsp;|&nbsp; AI Learner
 </p>
 
 ---
